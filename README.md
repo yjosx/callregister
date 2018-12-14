@@ -8,3 +8,7 @@
 
 自我评价1分。
 
+![Image text](https://github.com/yjosx/callregister/blob/master/screenshot/Screenshot_1544799238.png)
+
+
+![Image text](https://github.com/yjosx/callregister/blob/master/screenshot/Screenshot_1544799253.png)
